@@ -16,7 +16,7 @@
 
 🚀 **Try the application here:**
 
-**https://your-live-demo-link.streamlit.app**
+**https://ai-job-application-assistantt.streamlit.app/**
 
 ---
 
